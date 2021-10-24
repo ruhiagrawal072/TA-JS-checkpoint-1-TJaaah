@@ -30,7 +30,7 @@ function showMessage() {
   return message;
 }
 
-showMessage();
+showMessage(); 
 ```
 
 7. What will be the output for `Output1` `Output2` and `Output3` in the code below.
