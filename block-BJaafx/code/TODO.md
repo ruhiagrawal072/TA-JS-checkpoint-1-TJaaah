@@ -31,7 +31,7 @@ function check(num) {
     return 'Smaller than 5';
   }
 
-  return num;
+  return num; 
 }
 
 check(10); // output
